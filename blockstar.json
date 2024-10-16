@@ -1,0 +1,18 @@
+[
+    {
+    "title": "BlockStar Mainnet",
+    "url": "https://scan.blockstar.one",
+    "group": "Mainnets",
+    "icon": "https://i.ibb.co.com/XprjtDC/Icon-White-B-Black-Star.png",
+    "isActive": true,
+    "invertIconInDarkMode": true
+    },
+    {
+    "title": "BlockStar Testnet",
+    "url": "https://testnet-scan.blockstar.one",
+    "group": "Testnets",
+    "icon": "https://i.ibb.co.com/XprjtDC/Icon-White-B-Black-Star.png",
+    "isActive": true,
+    "invertIconInDarkMode": true
+    }
+]
