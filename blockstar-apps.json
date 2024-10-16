@@ -1,0 +1,14 @@
+[
+	{
+		"author": "BlockStar",
+		"id": "hop-exchange",
+		"title": "BlockStar Swap",
+		"logo": "https://i.ibb.co.com/XprjtDC/Icon-White-B-Black-Star.png",
+		"categories": ["Swaps"],
+		"shortDescription": "Swap, earn, and build on the leading decentralized crypto trading platform.",
+		"site": "https://dex.blockstar.site/",
+		"description": "Swap, earn, and build on the leading decentralized crypto trading platform.",
+		"url": "https://dex.blockstar.site/",
+		"external": true
+	}
+]
