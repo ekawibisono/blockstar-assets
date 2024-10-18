@@ -3,14 +3,14 @@
     "title": "BlockStar Mainnet",
     "url": "https://scan.blockstar.one",
     "group": "Mainnets",
-    "icon": "https://i.ibb.co.com/XprjtDC/Icon-White-B-Black-Star.png",
+    "icon": "https://raw.githubusercontent.com/ekawibisono/blockstar-assets/refs/heads/main/Icon%20Black%20B%20White%20Star.png",
     "invertIconInDarkMode": true
     },
     {
     "title": "BlockStar Testnet",
     "url": "https://testnet-scan.blockstar.one",
     "group": "Testnets",
-    "icon": "https://i.ibb.co.com/XprjtDC/Icon-White-B-Black-Star.png",
+    "icon": "https://raw.githubusercontent.com/ekawibisono/blockstar-assets/refs/heads/main/Icon%20Black%20B%20White%20Star.png",
     "invertIconInDarkMode": true
     }
 ]
