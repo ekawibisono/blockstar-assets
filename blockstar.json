@@ -4,13 +4,13 @@
     "url": "https://scan.blockstar.one",
     "group": "Mainnets",
     "icon": "https://i.ibb.co.com/7K7JMkT/Icon-Black-B-White-Star.png",
-    "invertIconInDarkMode": true
+    "invertIconInDarkMode": false
     },
     {
     "title": "BlockStar Testnet",
     "url": "https://testnet-scan.blockstar.one",
     "group": "Testnets",
     "icon": "https://i.ibb.co.com/7K7JMkT/Icon-Black-B-White-Star.png",
-    "invertIconInDarkMode": true
+    "invertIconInDarkMode": false
     }
 ]
